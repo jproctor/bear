@@ -1,3 +1,4 @@
+@api
 Feature: The homepage displays appropriate content to all users.
 
 Scenario: An admin user views the homepage
