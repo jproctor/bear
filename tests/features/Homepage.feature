@@ -1,5 +1,7 @@
-@api
 Feature: The homepage displays appropriate content.
+  As a Site Admin
+  I am able to log in
+  And publish content on the site
 
 Scenario: An anonymous user views the homepage
   Given I am an anonymous user
